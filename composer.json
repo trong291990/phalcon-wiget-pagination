@@ -1,5 +1,5 @@
 {
-    "name": "phalcon-ext/widget-pagination",
+    "name": "phalcon-ext/pagination-widget",
     "type": "library",
     "description": "Pagination widget for Phalcon.",
     "keywords": ["pagination", "widget", "phalcon", "phalcon-ext"],
