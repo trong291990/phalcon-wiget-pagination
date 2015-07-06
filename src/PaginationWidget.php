@@ -11,7 +11,7 @@
  * All Rights Reserved.
  * ----------------------------------------------
  */
-namespace Phalcon\Ext\Widgets;
+namespace Phalcon\Ext\Widgets\Fixed;
 
 use Phalcon\Paginator\AdapterInterface as PaginatorInterface;
 
